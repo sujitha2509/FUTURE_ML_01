@@ -15,7 +15,7 @@ A machine learning p roject that analyzes historical sales data and predicts fut
 ### Task 3 - Support Ticket Classification
 Developed a machine learning model to classify customer support tickets based on their category and priority
 
-### Task 3
+### Task
 Machine learning project completed as part of the internship task requirements.
 
 ## Tools & Technologies
